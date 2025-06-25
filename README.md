@@ -14,7 +14,7 @@ Splunk for basic log monitoring
 
 #Technologies used
 
-Windows Server 2022 (VM)
+- Windows Server 2022 (VM)
 Windows 11 Client (VM)
 VmWare
 Python
