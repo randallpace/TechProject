@@ -1,1 +1,2 @@
-
+## Problem Could not sign into created users on DC
+- Solution - Only users with administrator privalleges can sign into a DC. I had to give my first user administrator rights
