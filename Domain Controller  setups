@@ -10,7 +10,6 @@ ensuring security and consistency across all connected devices.
 - Group Policy Managemnet 
 - Replication
 
-# How I used them in this project
-
+# How they were used  in this project
 - I used two domain controllers as DNS servers
-- You need a backup for redundancy just incase
+- I made two to have a backup for redundancy just incase and to practice replication
