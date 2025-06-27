@@ -1,0 +1,11 @@
+# What is a domain Controller
+- A Domain Controller is the brain of a Windows network. 
+It authenticates users, enforces rules, and manages everything under the domain, 
+ensuring security and consistency across all connected devices.
+
+# What Services can a domain controller give 
+- User Authentication
+- Centralized Management 
+- Authorization
+- Group Policy Managemnet 
+- Replication
