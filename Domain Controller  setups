@@ -9,3 +9,8 @@ ensuring security and consistency across all connected devices.
 - Authorization
 - Group Policy Managemnet 
 - Replication
+
+# How I used them in this project
+
+- I used two domain controllers as DNS servers
+- You need a backup for redundancy just incase
